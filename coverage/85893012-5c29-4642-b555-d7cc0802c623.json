@@ -1,0 +1,28 @@
+{
+  "scriptId": "313",
+  "url": "file:///home/joller/Documents/Berufsschule/25_26/M426/repos/cards/cards.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 46,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "hello",
+      "ranges": [
+        {
+          "startOffset": 7,
+          "endOffset": 45,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}
